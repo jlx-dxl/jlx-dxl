@@ -1,4 +1,4 @@
-### Hi there 👋
+My name is Linxuan Jia.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlx-dxl)](https://github.com/anuraghazra/github-readme-stats)
 

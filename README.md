@@ -10,6 +10,4 @@
 - My webpage is [here](https://www.notion.so/Linxuan-Jia-Lucien-37efbf0eb3994ed1a990bd742b8ea34b?pvs=4).
 - [Email me](mailto:jlinxuan@seas.upenn.edu).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlx-dxl)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jlx-dxl)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlx-dxl)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com/?user=jlx-dxl)](https://git.io/streak-stats)

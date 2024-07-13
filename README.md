@@ -6,7 +6,6 @@
 
 📕 My research and project interests lie in automation and intelligence for all kinds of mechatronic products and robots, such as self-driving cars, multi-degree-of-freedom robotic arms, mobile robotic platforms and so on. I enjoy designing mechanical structures, electronic circuits, and developing perceptual, planning and control algorithms for such products. At the same time, I'm also learning to develop easier human-computer interactions for these products, including digital twins, hardware-based remote controls, and more user-friendly interfaces.
 
-- My resume is [here](https://drive.google.com/file/d/1JeDICRTV4_fwAYdyHN06YAU8mg1BLL6r/view?usp=sharing).
 - My webpage is [here](https://www.notion.so/Linxuan-Jia-Lucien-37efbf0eb3994ed1a990bd742b8ea34b?pvs=4).
 - [Email me](mailto:jlinxuan@seas.upenn.edu).
 

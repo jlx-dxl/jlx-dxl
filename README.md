@@ -10,3 +10,7 @@
 - [Email me](mailto:jlinxuan@seas.upenn.edu).
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jlx-dxl)](https://git.io/streak-stats)
+
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=jlx-dxl&show_icons=true&theme=tokyonight)
+
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=jlx-dxl&layout=compact&theme=tokyonight)

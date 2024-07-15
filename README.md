@@ -9,8 +9,6 @@
 - My webpage is [here](https://www.notion.so/Linxuan-Jia-Lucien-37efbf0eb3994ed1a990bd742b8ea34b?pvs=4).
 - [Email me](mailto:jlinxuan@seas.upenn.edu).
 
-# GitHub Profile Stats
-
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jlx-dxl&theme=tokyonight)](https://git.io/streak-stats)
